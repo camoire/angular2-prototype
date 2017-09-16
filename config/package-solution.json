@@ -1,0 +1,10 @@
+{
+  "solution": {
+    "name": "angular-2-prototype-client-side-solution",
+    "id": "8345dd26-2b69-4536-9c34-3ffdfd0370f0",
+    "version": "1.0.0.0"
+  },
+  "paths": {
+    "zippedPackage": "solution/angular-2-prototype.sppkg"
+  }
+}

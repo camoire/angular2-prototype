@@ -1,0 +1,13 @@
+{
+    "entries": [
+        {
+            "entry": "./lib/webparts/angular2Prototype/Angular2PrototypeWebPart.js",
+            "manifest": "./src/webparts/angular2Prototype/Angular2PrototypeWebPart.manifest.json",
+            "outputPath": "./dist/angular-2-prototype.bundle.js"
+        }
+    ],
+    "externals": {},
+    "localizedResources": {
+        "angular2PrototypeStrings": "webparts/angular2Prototype/loc/{locale}.js"
+    }
+}
